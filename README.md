@@ -1,6 +1,6 @@
 # bdonate1 
 
-Example for CICD . 
+It's a Java Web application uses CICD . 
 
 1.Use ant to build war file by "ant -Dbuild.compiler=javac1.7 war"
 
